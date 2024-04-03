@@ -2,7 +2,7 @@
 
 ## ▪️ I'm student at [42 Malaga](https://www.42malaga.com/) 👨🏻‍💻📚
 
-## ▪️ My 42 cursus:
+## ▪️ My 42 cursus ✅
 | Project | Score |
 |--------|--------|
 | [**Libft**](https://github.com/Tobiianselmo/Libft) | ![125%](https://progress-bar.dev/125)
