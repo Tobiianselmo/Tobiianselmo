@@ -8,7 +8,7 @@
 | [**Libft**](https://github.com/Tobiianselmo/Libft) | ![125%](https://progress-bar.dev/125)
 | [**ft_printf**](https://github.com/Tobiianselmo/ft_printf) | ![125%](https://progress-bar.dev/100)
 | [**get_next_line**](https://github.com/Tobiianselmo/Get_next_line) | ![125%](https://progress-bar.dev/125)
-| [**Born2beroot**] | ![110%](https://progress-bar.dev/110)
+| **Born2beroot** | ![110%](https://progress-bar.dev/110)
 | [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/125)
 
 ## ▪️ Github stats 📊
