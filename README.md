@@ -8,6 +8,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tobiianselmo&layout=compact&theme=github_dark)
 
-## ▪️ Contact me 📧
+## ▪️ Contact me 📩
 
 Email: tanselmo@student.42malaga.com
