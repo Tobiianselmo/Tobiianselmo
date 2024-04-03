@@ -11,6 +11,11 @@
 | **Born2beroot** | ![110%](https://progress-bar.dev/110)
 | [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/125)
 
+## ▪️ My 42 exams 💯
+| Exam | Score |
+|--------|--------|
+| **Exam_rank_02** | ![100%](https://progress-bar.dev/100)
+
 ## ▪️ Github stats 📊
 
 ![Tobiianselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobiianselmo&show_icons=true&theme=github_dark)
