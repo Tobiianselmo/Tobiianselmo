@@ -12,8 +12,8 @@
 | [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/125)
 | [**Pipex**](https://github.com/Tobiianselmo/Pipex) | ![125%](https://progress-bar.dev/125)
 | [**So_long**](https://github.com/Tobiianselmo/So_long) | ![100%](https://progress-bar.dev/100)
-| [**Minishell**](https://github.com/Tobiianselmo/Minishell) | ON GOING
 | [**Philosophers**](https://github.com/Tobiianselmo/Philosophers) | ON GOING
+| [**Minishell**](https://github.com/Tobiianselmo/Minishell) | ON GOING
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
