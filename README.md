@@ -5,12 +5,12 @@
 ## ▪️ My 42 cursus ✅
 | Project | Score |
 |--------|--------|
-| [**Libft**](https://github.com/Tobiianselmo/Libft) | ![125%](https://progress-bar.dev/125)
-| [**ft_printf**](https://github.com/Tobiianselmo/ft_printf) | ![125%](https://progress-bar.dev/100)
-| [**get_next_line**](https://github.com/Tobiianselmo/Get_next_line) | ![125%](https://progress-bar.dev/125)
-| **Born2beroot** | ![110%](https://progress-bar.dev/110)
-| [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/125)
-| [**Pipex**](https://github.com/Tobiianselmo/Pipex) | ![125%](https://progress-bar.dev/125)
+| [**Libft**](https://github.com/Tobiianselmo/Libft) | ![125%](https://progress-bar.dev/100)
+| [**ft_printf**](https://github.com/Tobiianselmo/ft_printf) | ![100%](https://progress-bar.dev/100)
+| [**get_next_line**](https://github.com/Tobiianselmo/Get_next_line) | ![125%](https://progress-bar.dev/100)
+| **Born2beroot** | ![110%](https://progress-bar.dev/100)
+| [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/100)
+| [**Pipex**](https://github.com/Tobiianselmo/Pipex) | ![125%](https://progress-bar.dev/100)
 | [**So_long**](https://github.com/Tobiianselmo/So_long) | ![100%](https://progress-bar.dev/100)
 | [**Philosophers**](https://github.com/Tobiianselmo/Philosophers) | ON GOING
 | [**Minishell**](https://github.com/Tobiianselmo/Minishell) | ON GOING
