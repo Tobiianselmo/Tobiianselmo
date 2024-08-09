@@ -18,7 +18,7 @@
 ## ▪️ My 42 exams 💯
 | Exam | Score |
 |--------|--------|
-| **Exam_rank_02** | ![100%](https://progress-bar.dev/100)
+| [**Exam_rank_02**](https://github.com/Tobiianselmo/Exam_rank_02) | ![100%](https://progress-bar.dev/100)
 | **Exam_rank_03** | ![100%](https://progress-bar.dev/100)
 
 ## ▪️ Github stats 📊
