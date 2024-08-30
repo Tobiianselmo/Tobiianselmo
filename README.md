@@ -5,21 +5,21 @@
 ## ▪️ My 42 cursus ✅
 | Project | Score |
 |--------|--------|
-| [**Libft**](https://github.com/Tobiianselmo/Libft) | ![125%](https://progress-bar.dev/125)
+| [**Libft**](https://github.com/Tobiianselmo/Libft) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
 | [**ft_printf**](https://github.com/Tobiianselmo/ft_printf) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
-| [**get_next_line**](https://github.com/Tobiianselmo/Get_next_line) | ![125%](https://progress-bar.dev/125)
-| **Born2beroot** | ![110%](https://progress-bar.dev/110)
-| [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![125%](https://progress-bar.dev/125)
-| [**Pipex**](https://github.com/Tobiianselmo/Pipex) | ![125%](https://progress-bar.dev/125)
-| [**So_long**](https://github.com/Tobiianselmo/So_long) | ![100%](https://progress-bar.dev/100)
-| [**Philosophers**](https://github.com/Tobiianselmo/Philosophers) | ![100%](https://progress-bar.dev/100)
+| [**get_next_line**](https://github.com/Tobiianselmo/Get_next_line) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
+| **Born2beroot** | ![Static Badge](https://img.shields.io/badge/Score-110-brightgreen?style=flat)
+| [**Push_swap**](https://github.com/Tobiianselmo/Push_swap) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
+| [**Pipex**](https://github.com/Tobiianselmo/Pipex) | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat)
+| [**So_long**](https://github.com/Tobiianselmo/So_long) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| [**Philosophers**](https://github.com/Tobiianselmo/Philosophers) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**Minishell**](https://github.com/Tobiianselmo/Minishell) | ON GOING
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
 |--------|--------|
-| **Exam_rank_02** | ![100%](https://progress-bar.dev/100)
-| **Exam_rank_03** | ![100%](https://progress-bar.dev/100)
+| **Exam_rank_02** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| **Exam_rank_03** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
 ## ▪️ Github stats 📊
 
