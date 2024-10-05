@@ -14,12 +14,16 @@
 | [**So_long**](https://github.com/Tobiianselmo/So_long) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**Philosophers**](https://github.com/Tobiianselmo/Philosophers) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**Minishell**](https://github.com/Tobiianselmo/Minishell) | ![Static Badge](https://img.shields.io/badge/Score-101-brightgreen?style=flat)
+| **Net Practice** | ON GOING
+| **CPP Module 00** | ON GOING
+
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
 |--------|--------|
 | **Exam_rank_02** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | **Exam_rank_03** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| **Exam_rank_04** | ON GOING
 
 ## Technologies & Tools 🛠️
 
