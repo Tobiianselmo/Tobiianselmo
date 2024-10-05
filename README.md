@@ -21,6 +21,20 @@
 | **Exam_rank_02** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | **Exam_rank_03** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
+## 🛠️ Technologies & Tools
+
+#### Languages
+- **C**: Deep knowledge in systems programming and algorithms.
+
+#### Frameworks & Libraries
+- **MinilibX**: 2D graphical programming for simple games (used in `So_long`).
+- **Pthread**: Threading and synchronization for multithreaded applications (`Philosophers`).
+- **GNU Make**: Proficient in building and managing projects with `makefiles`.
+
+#### Tools
+- **Git**: Version control and collaboration on code with GitHub.
+- **Vim**: Strong command-line text editor skills for efficient coding.
+  
 ## ▪️ Github stats 📊
 
 ![Tobiianselmo GitHub stats](https://github-readme-stats.vercel.app/api?username=Tobiianselmo&show_icons=true&theme=github_dark)
