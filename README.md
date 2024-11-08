@@ -18,6 +18,7 @@
 | [**CPP Module 00**](https://github.com/Tobiianselmo/CPP-00) | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat)
 | [**CPP Module 01**](https://github.com/Tobiianselmo/CPP-01) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | [**CPP Module 02**](https://github.com/Tobiianselmo/CPP-02) | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat)
+| [**CPP Module 03**](https://github.com/Tobiianselmo/CPP-03) | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
 
 ## ▪️ My 42 exams 💯
@@ -25,7 +26,7 @@
 |--------|--------|
 | **Exam_rank_02** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | **Exam_rank_03** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
-| **Exam_rank_04** | ON GOING
+| **Exam_rank_04** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
 ## Technologies & Tools 🛠️
 
