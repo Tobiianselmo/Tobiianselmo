@@ -7,20 +7,20 @@
 ## ▪️ My 42 cursus ✅
 | Project | Score |
 |--------|--------|
-| **Libft** <https://github.com/Tobiianselmo/Libft> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
-| **ft_printf** <https://github.com/Tobiianselmo/ft_printf> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
-| **get_next_line** <https://github.com/Tobiianselmo/Get_next_line> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
-| **Born2beroot** | ![Static Badge](https://img.shields.io/badge/Score-110-brightgreen?style=flat) |
-| **Push_swap** <https://github.com/Tobiianselmo/Push_swap> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
-| **Pipex** <https://github.com/Tobiianselmo/Pipex> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
-| **So_long** <https://github.com/Tobiianselmo/So_long> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
-| **Philosophers** <https://github.com/Tobiianselmo/Philosophers> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
-| **Minishell** <https://github.com/Tobiianselmo/Minishell> | ![Static Badge](https://img.shields.io/badge/Score-101-brightgreen?style=flat) |
-| **Net Practice** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
-| **CPP Module 00** <https://github.com/Tobiianselmo/CPP-00> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
-| **CPP Module 01** <https://github.com/Tobiianselmo/CPP-01> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
-| **CPP Module 02** <https://github.com/Tobiianselmo/CPP-02> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
-| **CPP Module 03** <https://github.com/Tobiianselmo/CPP-03> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Libft" style="text-decoration:none; color:black;">Libft</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/ft_printf" style="text-decoration:none; color:black;">ft_printf</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Get_next_line" style="text-decoration:none; color:black;">get_next_line</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
+| <b>Born2beroot</b> | ![Static Badge](https://img.shields.io/badge/Score-110-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Push_swap" style="text-decoration:none; color:black;">Push_swap</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Pipex" style="text-decoration:none; color:black;">Pipex</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/So_long" style="text-decoration:none; color:black;">So_long</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Philosophers" style="text-decoration:none; color:black;">Philosophers</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Minishell" style="text-decoration:none; color:black;">Minishell</a></b> | ![Static Badge](https://img.shields.io/badge/Score-101-brightgreen?style=flat) |
+| <b>Net Practice</b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-00" style="text-decoration:none; color:black;">CPP Module 00</a></b> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-01" style="text-decoration:none; color:black;">CPP Module 01</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-02" style="text-decoration:none; color:black;">CPP Module 02</a></b> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-03" style="text-decoration:none; color:black;">CPP Module 03</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
