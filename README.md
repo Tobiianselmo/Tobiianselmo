@@ -7,7 +7,7 @@
 ## ▪️ My 42 cursus ✅
 | Project | Score |
 |--------|--------|
-| <b><a href="https://github.com/Tobiianselmo/Libft" style="text-decoration: none; color:blue;">Libft</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/Libft" style="text-decoration:none; color:black;">Libft</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
 | <b><a href="https://github.com/Tobiianselmo/ft_printf" style="text-decoration:none; color:black;">ft_printf</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
 | <b><a href="https://github.com/Tobiianselmo/Get_next_line" style="text-decoration:none; color:black;">get_next_line</a></b> | ![Static Badge](https://img.shields.io/badge/Score-125-brightgreen?style=flat) |
 | <b>Born2beroot</b> | ![Static Badge](https://img.shields.io/badge/Score-110-brightgreen?style=flat) |
