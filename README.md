@@ -55,5 +55,5 @@
 
 Email: tanselmo@student.42malaga.com
 
-## - Mi perfil en la intranet de 42 ↙️
-[AQUÍ](https://profile.intra.42.fr/users/tanselmo)
+## - My 42 profile ↙️
+[Here](https://profile.intra.42.fr/users/tanselmo)
