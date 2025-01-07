@@ -22,7 +22,7 @@
 | <b><a href="https://github.com/Tobiianselmo/CPP-02" style="text-decoration:none; color:black;">CPP Module 02</a></b> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
 | <b><a href="https://github.com/Tobiianselmo/CPP-03" style="text-decoration:none; color:black;">CPP Module 03</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
 | <b>CPP Module 04</b> | ON GOING |
-| <b>Cub3D</b> | ON GOING |
+| <b><a href="https://github.com/Tobiianselmo/Cub3D" style="text-decoration:none; color:black;">Cub3D</a></b> | ![Static Badge](https://img.shields.io/badge/Score-120-brightgreen?style=flat) |
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
