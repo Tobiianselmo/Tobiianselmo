@@ -31,6 +31,7 @@
 | **Exam_rank_02** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | **Exam_rank_03** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 | **Exam_rank_04** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
+| **Exam_rank_05** | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat)
 
 ## Technologies & Tools 🛠️
 
