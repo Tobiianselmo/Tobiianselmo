@@ -24,6 +24,10 @@
 | <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 04</a></b> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
 | <b><a href="https://github.com/Tobiianselmo/Cub3D" style="text-decoration:none; color:black;">Cub3D</a></b> | ![Static Badge](https://img.shields.io/badge/Score-120-brightgreen?style=flat) |
 | <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 05</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 06</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 07</a></b> | ![Static Badge](https://img.shields.io/badge/Score-80-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 08</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
+| <b><a href="https://github.com/Tobiianselmo/CPP-Modules" style="text-decoration:none; color:black;">CPP Module 09</a></b> | ![Static Badge](https://img.shields.io/badge/Score-100-brightgreen?style=flat) |
 
 ## ▪️ My 42 exams 💯
 | Exam | Score |
