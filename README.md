@@ -29,22 +29,22 @@ I enjoy solving complex problems, writing clean code, and constantly learning ne
 
 ### 🧩 Completed Projects
 
-| Project | Score |
-|--------|--------|
-| **[Libft](https://github.com/Tobiianselmo/Libft)** | ![Score](https://img.shields.io/badge/125-brightgreen) |
-| **[ft_printf](https://github.com/Tobiianselmo/ft_printf)** | ![Score](https://img.shields.io/badge/100-brightgreen) |
-| **[get_next_line](https://github.com/Tobiianselmo/Get_next_line)** | ![Score](https://img.shields.io/badge/125-brightgreen) |
-| **Born2beroot** | ![Score](https://img.shields.io/badge/110-brightgreen) |
-| **[Push_swap](https://github.com/Tobiianselmo/Push_swap)** | ![Score](https://img.shields.io/badge/125-brightgreen) |
-| **[Pipex](https://github.com/Tobiianselmo/Pipex)** | ![Score](https://img.shields.io/badge/125-brightgreen) |
-| **[So_long](https://github.com/Tobiianselmo/So_long)** | ![Score](https://img.shields.io/badge/100-brightgreen) |
-| **[Philosophers](https://github.com/Tobiianselmo/Philosophers)** | ![Score](https://img.shields.io/badge/100-brightgreen) |
-| **[Minishell](https://github.com/Tobiianselmo/Minishell)** | ![Score](https://img.shields.io/badge/101-brightgreen) |
-| **Net Practice** | ![Score](https://img.shields.io/badge/100-brightgreen) |
-| **[Cub3D](https://github.com/Tobiianselmo/Cub3D)** | ![Score](https://img.shields.io/badge/120-brightgreen) |
-| **[CPP Modules 00 → 09](https://github.com/Tobiianselmo/CPP-Modules)** | ![Score](https://img.shields.io/badge/completed-brightgreen) |
-| **[ft_irc](https://github.com/Tobiianselmo/ft_irc)** | ![Score](https://img.shields.io/badge/125-brightgreen) |
-| **Inception** | ![Score](https://img.shields.io/badge/100-brightgreen) |
+| Project | Score | Description |
+|--------|--------|-------------|
+| **[Libft](https://github.com/Tobiianselmo/Libft)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Custom C standard library implementation (memory, strings, lists). |
+| **[ft_printf](https://github.com/Tobiianselmo/ft_printf)** | ![Score](https://img.shields.io/badge/100-brightgreen) | Reimplementation of the `printf` function with formatted output. |
+| **[get_next_line](https://github.com/Tobiianselmo/Get_next_line)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Efficient line-by-line file reader handling multiple FDs. |
+| **Born2beroot** | ![Score](https://img.shields.io/badge/110-brightgreen) | Linux system administration and virtualization project. |
+| **[Push_swap](https://github.com/Tobiianselmo/Push_swap)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Sorting algorithm project focused on optimization and stack operations. |
+| **[Pipex](https://github.com/Tobiianselmo/Pipex)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Reimplementation of shell piping using processes and file descriptors. |
+| **[So_long](https://github.com/Tobiianselmo/So_long)** | ![Score](https://img.shields.io/badge/100-brightgreen) | 2D game built with MiniLibX, focusing on graphics and event handling. |
+| **[Philosophers](https://github.com/Tobiianselmo/Philosophers)** | ![Score](https://img.shields.io/badge/100-brightgreen) | Dining philosophers problem using threads, mutexes, and concurrency control. |
+| **[Minishell](https://github.com/Tobiianselmo/Minishell)** | ![Score](https://img.shields.io/badge/101-brightgreen) | A functional UNIX shell with parsing, pipes, signals, and built-ins. |
+| **Net Practice** | ![Score](https://img.shields.io/badge/100-brightgreen) | Network configuration and troubleshooting through virtual topologies. |
+| **[Cub3D](https://github.com/Tobiianselmo/Cub3D)** | ![Score](https://img.shields.io/badge/120-brightgreen) | 3D raycasting engine inspired by Wolfenstein 3D. |
+| **[CPP Modules 00 → 09](https://github.com/Tobiianselmo/CPP-Modules)** | ![Score](https://img.shields.io/badge/completed-brightgreen) | Modern C++ OOP fundamentals: classes, inheritance, exceptions, templates. |
+| **[ft_irc](https://github.com/Tobiianselmo/ft_irc)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Fully functional IRC server built in C++98 using sockets and RFC standards. |
+| **Inception** | ![Score](https://img.shields.io/badge/100-brightgreen) | Docker-based system architecture with multiple services and containers. |
 
 ---
 
