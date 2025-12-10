@@ -45,7 +45,7 @@ I enjoy solving complex problems, writing clean code, and constantly learning ne
 | **[CPP Modules 00 → 09](https://github.com/Tobiianselmo/CPP-Modules)** | ![Score](https://img.shields.io/badge/completed-brightgreen) | Modern C++ OOP fundamentals: classes, inheritance, exceptions, templates. |
 | **[ft_irc](https://github.com/Tobiianselmo/ft_irc)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Fully functional IRC server built in C++98 using sockets and RFC standards. |
 | **Inception** | ![Score](https://img.shields.io/badge/100-brightgreen) | Docker-based system architecture with multiple services and containers. |
-| **[ft_transcendence](https://github.com/Tobiianselmo/ft_transcendence)** | ![Score](https://img.shields.io/badge/100-brightgreen) | Final project of the Common Core. A full online platform featuring user accounts, profiles, match history, social features and a real-time multiplayer Pong game. I developed the entire authentication and user management system, including registration, login, account verification and security. |
+| **[ft_transcendence](https://github.com/Tobiianselmo/ft_transcendence)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Final project of the Common Core. A full online platform featuring user accounts, profiles, match history, social features and a real-time multiplayer Pong game. I developed the entire authentication and user management system, including registration, login, account verification and security. |
 
 ---
 
