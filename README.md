@@ -45,6 +45,7 @@ I enjoy solving complex problems, writing clean code, and constantly learning ne
 | **[CPP Modules 00 → 09](https://github.com/Tobiianselmo/CPP-Modules)** | ![Score](https://img.shields.io/badge/completed-brightgreen) | Modern C++ OOP fundamentals: classes, inheritance, exceptions, templates. |
 | **[ft_irc](https://github.com/Tobiianselmo/ft_irc)** | ![Score](https://img.shields.io/badge/125-brightgreen) | Fully functional IRC server built in C++98 using sockets and RFC standards. |
 | **Inception** | ![Score](https://img.shields.io/badge/100-brightgreen) | Docker-based system architecture with multiple services and containers. |
+| **[ft_transcendence](https://github.com/Tobiianselmo/ft_transcendence)** | ![Score](https://img.shields.io/badge/100-brightgreen) | Final project of the Common Core. Full-stack web platform with authentication, 2FA, Google OAuth, JWT with secure cookies, SQLite integration, security layers and Dockerized architecture. I implemented the entire user/auth system using Fastify. |
 
 ---
 
