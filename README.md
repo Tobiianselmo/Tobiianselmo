@@ -13,7 +13,6 @@ I'm a developer with a strong foundation in **C and C++**, gained through the in
 Currently, I’m expanding my focus into **modern web development**, specializing in:
 
 - **TypeScript**
-- **React**
 - **Node.js**
 - **Tailwind CSS**
 - **SQLite / SQL**
@@ -72,9 +71,8 @@ I enjoy solving complex problems, writing clean code, and constantly learning ne
 - Makefiles
 
 ### **Frontend / Web**
-- HTML, CSS, JavaScript
+- HTML, CSS
 - TypeScript  
-- React  
 - Tailwind CSS  
 
 ### **Other Tools**
